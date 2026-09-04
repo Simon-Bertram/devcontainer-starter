@@ -1,5 +1,5 @@
 {
-    "name": "devcontainer-starter",
+    "name": "faber-web-tech",
     "build": {
         "dockerfile": "Dockerfile",
         "context": "..",
